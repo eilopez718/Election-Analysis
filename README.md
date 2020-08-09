@@ -14,7 +14,7 @@ The purpose of the audit was to see if we could leverage Python to create a tool
 	- Denver: 82.8% (306,055)
 	- Arapahoe: 6.7% (24,801)
 		
-3. Denver County had the most votes in the precinct. 
+3. Denver County had the most votes cast for any county in the precinct with 306,055.
 	
 4. The breakdown of votes by candidate is as follows:
 	
