@@ -1,14 +1,12 @@
 # Election-Analysis
 
 ## Overview of Election Audit: 
-
 	The purpose of the audit was to see if we could leverage Python to create a tool to automate
 the calculation of election results.
 
 
 ## Election Audit Results:
 
-IMAGE:ELECTION ANALYSIS.PNG
 
 	1. There were a total of 369,711 votes cast in this election.
 	2. The breakdown by county is as follows:
